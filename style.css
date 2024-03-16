@@ -1,0 +1,26 @@
+#countLable{
+    display: block;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10em;
+}
+
+#container{
+    text-align: center;
+}
+
+.button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    color: white;
+    background-color: hsla(225, 44%, 56%, 0.697);
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.25s;
+    padding: 10px 20px;
+
+}
+
+.button:hover {
+    background-color: hsla(225, 76%, 40%, 0.866);
+}
